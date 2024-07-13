@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <h1>Hi there 👋, I'm Victoria</h1>
+    <h1>Hi there, I'm Victoria</h1>
     <h4>I'm a second-year student of the Higher IT school, beginner ML-engineer</h3>
 </div>
 
@@ -45,7 +45,9 @@
 |SHIFT intensive ML CV|04.02.2024|[Certificate](https://drive.google.com/file/d/1OqCi50YTNGGjT2WLr6hE2_2cJoTdvkLh/view?usp=sharing)|
 |SHIFT intensive ML CL|13.07.2024|[Certificate](https://drive.google.com/file/d/1SFhCVVMy6gu_C2g3bVriV79PFnV7mafD/view?usp=sharing)|
 |Deep Learning School MIPT, 1 semester|in progress||
-<!-- |Программирование на Python|07.01.2021|[Certificate](https://stepik.org/cert/867299)|
-|Введение в программирование (C++)|26.03.2021|[Certificate](https://stepik.org/cert/924145)| -->
+
+<div id="header" align="center">
+    <h3>Look my projects👇</h3>
+</div>
 
 <!-- [![Leetcode Stats](https://leetcard.jacoblin.cool/vika_klyueva)](https://leetcode.com/u/vika_klyueva) -->
