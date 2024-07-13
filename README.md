@@ -1,12 +1,13 @@
-## Hi there 👋, I'm Victoria
-I'm a second-year student of the Higher IT school, beginner ML-engineer
+<div id="header" align="center">
+    <h1>Hi there 👋, I'm Victoria</h1>
+    <h4>I'm a second-year student of the Higher IT school, beginner ML-engineer</h3>
+</div>
 
-## About me:
+## 👩‍💻About me:
 - 🔭 I’m currently working on my CV-NLP pet project
 - 🌱 I’m currently learning NLP
 - 📄 Know about me more [CV](cv-link)
-- 📫 Reach me by [email](mailto:email-addres)
-- ⚡ Fun fact: ...
+- 📫 Reach me by [Email](mailto:vika_klyueva@inbox.ru), [Telegram](https://t.me/Viktoria_Klyueva) and [Kaggle](https://www.kaggle.com/vekosek)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -31,5 +32,20 @@ I'm a second-year student of the Higher IT school, beginner ML-engineer
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VictoriaKlyueva&theme=github_dark" alt=""/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VictoriaKlyueva&theme=github_dark" alt=""/>
 </div>
+
+### 📖Сourses and events :
+
+|Cours/event|Data|Document|
+|---------------------|--------|-----------|
+|Алгоритмы: теория и практика. Методы|03.08.2021|[Certificate](https://stepik.org/cert/1043384)|
+|"Поколение Python": курс для продвинутых|20.08.2021|[Certificate](https://stepik.org/cert/1060852)|
+|Big Data и Data Science: начни погружение с нуля|16.12.2021|[Certificate](https://stepik.org/cert/1323232)|
+|SCINCEhack|08.08.2022|[Certificate](https://drive.google.com/drive/u/0/folders/1dhK506K7hItWnnvbpTnuNhgxGDiknFGH)|
+|True Tech Champ olympiad|10.2023|[Certificate](https://drive.google.com/file/d/1OqCi50YTNGGjT2WLr6hE2_2cJoTdvkLh/view?usp=sharing)|
+|SHIFT intensive ML CV|04.02.2024|[Certificate](https://drive.google.com/file/d/1OqCi50YTNGGjT2WLr6hE2_2cJoTdvkLh/view?usp=sharing)|
+|SHIFT intensive ML CL|13.07.2024|[Certificate](https://drive.google.com/file/d/1SFhCVVMy6gu_C2g3bVriV79PFnV7mafD/view?usp=sharing)|
+|Deep Learning School MIPT, 1 semester|in progress||
+<!-- |Программирование на Python|07.01.2021|[Certificate](https://stepik.org/cert/867299)|
+|Введение в программирование (C++)|26.03.2021|[Certificate](https://stepik.org/cert/924145)| -->
 
 <!-- [![Leetcode Stats](https://leetcard.jacoblin.cool/vika_klyueva)](https://leetcode.com/u/vika_klyueva) -->
