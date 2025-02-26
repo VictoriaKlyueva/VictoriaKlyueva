@@ -1,30 +1,37 @@
 <div id="header" align="center">
-    <h1>Hi there, I'm Victoria</h1>
+    <h1>Hi there, <img src="https://github.com/karengonzalezdev/Images/blob/main/Hi.gif" width="40px"> I'm Victoria!</h1>
     <h4>I'm a second-year student of the Higher IT school, beginner ML-engineer</h3>
 </div>
 
 ## 👩‍💻About me:
-- 🔭 I’m currently working on my CV-NLP pet project
-- 🌱 I’m currently learning NLP
-- 📄 Know about me more [CV](cv-link)
-- 📫 Reach me by [Email](mailto:vika_klyueva@inbox.ru), [Telegram](https://t.me/Viktoria_Klyueva) and [Kaggle](https://www.kaggle.com/vekosek)
+- 🔭 I’m currently working on my MLOps pet project
+- 🌱 I’m currently learning NLP and time series
+- 📄 Know about me more [CV](https://drive.google.com/file/d/1vb9yxVKnzTLwBK2fF6o7_AQn6gTsQZzI/view?usp=sharing)
+- 📫 Reach me by [Telegram](https://t.me/Viktoria_Klyueva), [Email](mailto:vika_klyueva@inbox.ru), and [Kaggle](https://www.kaggle.com/vekosek)
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="56" height="56"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-plain-wordmark.svg" title="Pytorch" alt="Pytorch" width="56" height="56"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Sklearn" alt="Sklearn" width="56" height="56"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" title="Matplotlib" alt="Matplotlib" width="56" height="56"/>&nbsp;
-  <img src="https://github.com/microsoft/onnxruntime/blob/main/docs/images/ONNX_Runtime_logo_dark.png" title="ORT" alt="ORT" width="84" height="56"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="56" height="56"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="OpenCV" alt="OpenCV" width="56" height="56"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="56" height="56"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="Cpp" alt="Cpp" width="56" height="56"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="56" height="56"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="Kaggle" alt="Kaggle" width="56" height="56"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="Pycharm" alt="Pycharm" width="56" height="56"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="56" height="56"/>&nbsp;
-</div>
+### :hammer_and_wrench: Skills and Tools :
+#### :robot: Machine Learning and Data Science
+- **ML tasks:** Classis ML, Computer Vision, NLP
+- **Classic ML**: SVM, Cat Boost, XGBoost, LightGBM, Clustering 
+- **Computer Vision**: ResNet, UNet, YOLO, Autoencoders, GANs, Diffusers, Flux
+- **NLP**: embeddings, RNN, BERT, Transformers
+#### :computer: Programming and Development
+- **Languages**: Python, C++ (primary), R, SQL, Bash (but also Kotlin, C#, Java)
+- **Libraries**: PyTorch, Scikit-learn, Optuna, CatBoost, XGBoost, LightGBM, Transformers, Diffusers, YOLO
+- **Backend**: FastAPI, Flask, .NET, Java Spring
+- **Data manipulation:** Pandas, NumPy, OpenCV
+- **Data visualization:** Seaborn, Matplotlib
+#### :bar_chart: Data Engineering
+- **Data processing and cleaning (ETL/ELT)**
+- **Databases:** PostgreSQL, MySQL, Apache Cassandra, Redis
+#### :cloud: Infrastructure and DevOps
+- **Containerization:** Docker, Docker Compose
+- **Orchestration:** Kubernetes (basic knowledge)
+- **CI/CD**: Gitlab CI/CD
+- **Other**: vLLM, ONNX-Runtime
+#### :books: Additional Skills
+- **Math:** mathematical statistics, linear algebra, mathematical analysis,
+- **English:** Upper-Intermediate (reading and writing technical documentation and articles)
 
 ### :fire: My Stats :
 <div id="stat" align="center">
@@ -42,9 +49,10 @@
 |Big Data и Data Science: начни погружение с нуля|16.12.2021|[Certificate](https://stepik.org/cert/1323232)|
 |SCINCEhack|08.08.2022|[Certificate](https://drive.google.com/drive/u/0/folders/1dhK506K7hItWnnvbpTnuNhgxGDiknFGH)|
 |True Tech Champ olympiad|10.2023|[Certificate](https://drive.google.com/file/d/1OqCi50YTNGGjT2WLr6hE2_2cJoTdvkLh/view?usp=sharing)|
+|Deep Learning School MIPT, 1 semester|02.2024 - 06.2024||
 |SHIFT intensive ML CV|04.02.2024|[Certificate](https://drive.google.com/file/d/1OqCi50YTNGGjT2WLr6hE2_2cJoTdvkLh/view?usp=sharing)|
-|SHIFT intensive ML CL|13.07.2024|[Certificate](https://drive.google.com/file/d/1SFhCVVMy6gu_C2g3bVriV79PFnV7mafD/view?usp=sharing)|
-|Deep Learning School MIPT, 1 semester|in progress||
+|SHIFT intensive ML |13.07.2024|[Certificate](https://drive.google.com/file/d/1SFhCVVMy6gu_C2g3bVriV79PFnV7mafD/view?usp=sharing)|
+|Deep Learning School MIPT, 2 semester|02.2025 - 06.2025||
 
 <div id="header" align="center">
     <h3>Look my projects👇</h3>
