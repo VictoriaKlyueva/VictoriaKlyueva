@@ -51,7 +51,8 @@
 |True Tech Champ olympiad|10.2023|[Certificate](https://drive.google.com/file/d/1OqCi50YTNGGjT2WLr6hE2_2cJoTdvkLh/view?usp=sharing)|
 |Deep Learning School MIPT, 1 semester|02.2024 - 06.2024||
 |SHIFT intensive ML CV|04.02.2024|[Certificate](https://drive.google.com/file/d/1OqCi50YTNGGjT2WLr6hE2_2cJoTdvkLh/view?usp=sharing)|
-|SHIFT intensive ML |13.07.2024|[Certificate](https://drive.google.com/file/d/1SFhCVVMy6gu_C2g3bVriV79PFnV7mafD/view?usp=sharing)|
+|SHIFT intensive ML|13.07.2024|[Certificate](https://drive.google.com/file/d/1SFhCVVMy6gu_C2g3bVriV79PFnV7mafD/view?usp=sharing)|
+|"HITs Vision" Game Exhibition, 1nd place|06.07.2024||
 |Deep Learning School MIPT, 2 semester|02.2025 - 06.2025||
 
 <div id="header" align="center">
