@@ -6,7 +6,7 @@
 ## 👩‍💻About me:
 - 🔭 I’m currently working on my MLOps pet project
 - 🌱 I’m currently learning NLP and time series
-- 📄 Know about me more [CV]([https://drive.google.com/file/d/1vb9yxVKnzTLwBK2fF6o7_AQn6gTsQZzI/view?usp=sharing](https://drive.google.com/file/d/1Mr1EUrVIoOEsJCcwTbfp__5PPH-wZzI0/view?usp=sharing))
+- 📄 Know about me more [CV](https://drive.google.com/file/d/1Mr1EUrVIoOEsJCcwTbfp__5PPH-wZzI0/view?usp=sharing)
 - 📫 Reach me by [Telegram](https://t.me/Viktoria_Klyueva), [Email](mailto:vika_klyueva@inbox.ru), and [Kaggle](https://www.kaggle.com/vekosek)
 
 ### :hammer_and_wrench: Skills and Tools :
