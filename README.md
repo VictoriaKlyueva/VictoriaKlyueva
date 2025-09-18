@@ -4,8 +4,7 @@
 </div>
 
 ## 👩‍💻About me:
-- 🔭 I’m currently working on startup project 
-- 🌱 I’m currently learning last AI articles
+- 🌱 I’m currently learning AI safety
 - 📄 Know about me more [CV](https://drive.google.com/file/d/1Mr1EUrVIoOEsJCcwTbfp__5PPH-wZzI0/view?usp=sharing)
 - 📫 Reach me by [Telegram](https://t.me/Viktoria_Klyueva), [Email](mailto:vika_klyueva@inbox.ru), and [Kaggle](https://www.kaggle.com/vekosek)
 
