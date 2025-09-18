@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1>Hi there, <img src="https://github.com/karengonzalezdev/Images/blob/main/Hi.gif" width="40px"> I'm Victoria!</h1>
-    <h4>I'm a second-year student of the Higher IT school, ML-engineer</h3>
+    <h4>I'm a third-year student of the Higher IT school, ML-engineer</h3>
 </div>
 
 ## 👩‍💻About me:
